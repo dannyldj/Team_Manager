@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\USER\Source\Repos\Team_Manager\B1ND_test\main.c(19): warning C4715: 'depart': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  B1ND_test.vcxproj -> C:\Users\USER\Source\Repos\Team_Manager\Debug\B1ND_test.exe
